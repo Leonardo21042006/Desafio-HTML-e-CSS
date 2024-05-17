@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Desafio-HTML-e-CSS/)
+[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Frontend-Mentor-QR-code/)
 
 ## 🛠️ Tecnologias 
 
